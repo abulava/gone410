@@ -8,4 +8,4 @@ It will be used as the default nginx vhost as long as:
 * it is the only app with ``NO_VHOST: 1`` config var.
 
 ## License
-[MIT](http://rem.mit-license.org)
+[MIT](http://abulava.mit-license.org)
