@@ -1,0 +1,11 @@
+{
+  "name": "gone410",
+  "description": "Nothing interesting here, move on.",
+  "version": "0.0.1",
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ]
+}
